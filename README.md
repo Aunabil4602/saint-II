@@ -8,7 +8,7 @@ SAINT paper can be found [here](https://academic.oup.com/bioinformatics/article/
 * HMM profile
 
 ### Physio-chemical propteties
-It contains 7 properties of each of the type of amino-acid. Data can be found in out /data directory
+It contains 7 properties of each of the type of amino-acid. Data can be found in [SAINT source code](https://github.com/SAINTProtein/SAINT/blob/master/SAINT/aa_phy7)
 For more details on this Paper link:
 
 ### PSSM profile
