@@ -9,7 +9,6 @@ SAINT paper can be found [here](https://academic.oup.com/bioinformatics/article/
 
 ### Physio-chemical propteties
 It contains 7 properties of each of the type of amino-acid. Data can be found in [SAINT source code](https://github.com/SAINTProtein/SAINT/blob/master/SAINT/aa_phy7)
-For more details on this Paper link:
 
 ### PSSM profile
 PSSM profile are be generated using [PSI-BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) on [UniProt90](https://www.uniprot.org/downloads). Note that, to use uniprot90.fasta in PSI-BLAST, it need to be converted to BLAST data format using [mkblastdb](https://ncbi.github.io/magicblast/cook/blastdb.html) command.
